@@ -1,0 +1,5 @@
+D:\Users\java_workspace\hello-spring-cloud\hello-spring-cloud-ribbon\src\main\java\com\njh\hello\spring\cloud\ribbon\config\HystrixDashboardConfiguration.java
+D:\Users\java_workspace\hello-spring-cloud\hello-spring-cloud-ribbon\src\main\java\com\njh\hello\spring\cloud\ribbon\service\AdminService.java
+D:\Users\java_workspace\hello-spring-cloud\hello-spring-cloud-ribbon\src\main\java\com\njh\hello\spring\cloud\ribbon\RibbonApplication.java
+D:\Users\java_workspace\hello-spring-cloud\hello-spring-cloud-ribbon\src\main\java\com\njh\hello\spring\cloud\ribbon\controller\AdminController.java
+D:\Users\java_workspace\hello-spring-cloud\hello-spring-cloud-ribbon\src\main\java\com\njh\hello\spring\cloud\ribbon\config\RestTemplateConfiguration.java
